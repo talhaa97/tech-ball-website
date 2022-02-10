@@ -1,0 +1,26 @@
+*{e;
+    padding: 0;
+    margin: 0;
+}
+
+.logo-btn{
+    width: 150px;
+}
+.website-img{
+    width: 95%;
+        
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+.slide-1-heading{
+    color: rgb(255, 255, 255);
+}
+
+.card-img{
+    height: 200px;
+}
+.model-img{
+
+    border-radius: 50%;
+}
